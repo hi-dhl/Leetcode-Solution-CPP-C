@@ -272,3 +272,4 @@ captures/
 
 .MWebMetaData/
 gradle.properties
+cmake-build-debug/

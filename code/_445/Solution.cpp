@@ -30,7 +30,7 @@ public:
         ListNode *p2 = reverse(l2);
         int carry = 0;
         ListNode *head = nullptr;
-        while ((p1 || p2)) {
+        while (p1 || p2 || carry > 0) {
             int a = p1 ? p1->val : 0;
             int b = p2 ? p2->val : 0;
             int sum = a + b + carry;
