@@ -1,4 +1,4 @@
-## <p align="center"> Leetcode-Solutions-Java-And-Kotlin </p>
+## <p align="center"> Leetcode-Solution-C++-C </p>
 
 <p align="center"> 仓库 <b>每周</b> 持续更新，如果对你有帮助，请在右上角 star 一下</p>
 
